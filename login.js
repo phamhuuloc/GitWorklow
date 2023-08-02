@@ -1,1 +1,1 @@
-console.log("login usin gmail for user");
+console.log("login using gmail for user");
